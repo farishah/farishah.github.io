@@ -19,6 +19,8 @@ Overall, I have grown great enthusiasm for NLP and plan to keep up with this rap
 Used Python and NLTK features to explore a text file (one chapter of an anatomy textbook) to create a word guessing game.
 <br><br>
 <a href="https://github.com/farishah/CS6301-NLP/tree/main/FarishahNahrin_Chapter5">View Code on GitHub</a>
+<br><br>
+<img src="https://img.shields.io/badge/Python-white?logo=Python">
 
 ---
 
@@ -31,7 +33,6 @@ Built a web crawler function that scrapes contents from virtualbangladesh.com, d
 <a href="https://github.com/farishah/CS6301-NLP/tree/main/FarishahNahrin_WebCrawler">View Code on GitHub</a>
 <br><br>
 <img src="https://img.shields.io/badge/Python-white?logo=Python">
-<br><br>
 
 ---
 
@@ -40,6 +41,8 @@ Built a web crawler function that scrapes contents from virtualbangladesh.com, d
 WordNet is a "lexical database of nouns, verbs, adjectives and adverbs that provides short definitions called glosses, and use examples." Identified sysnets, hypernyms, hyponyms, etc., from nouns using WordNet and SentiWordNet.
 <br><br>
 <a href="https://github.com/farishah/CS6301-NLP/blob/main/Farishah_Wordnet.ipynb">View Code on GitHub</a>
+<br><br>
+<img src="https://img.shields.io/badge/Python-white?logo=Python">
 
 ---
 
@@ -50,6 +53,8 @@ Created bigram and unigram dictionaries for English, French, and Italian, using 
 [N-Grams Narrative](https://farishah.github.io/CS6301-NLP/Farishah_Ngrams/Farishah_Narrative_Ngrams.pdf)
 <br><br>
 <a href="https://github.com/farishah/CS6301-NLP/tree/main/Farishah_Ngrams">View Code on GitHub</a>
+<br><br>
+<img src="https://img.shields.io/badge/Python-white?logo=Python">
 
 ---
 
@@ -68,6 +73,8 @@ Created a chatbot from scratch with NLP techniques, using the web scraped virtua
 [Chatbot Report](https://farishah.github.io/CS6301-NLP/ChatbotReport_FarishahNahrin.pdf)
 <br><br>
 <a href="https://github.com/farishah/CS6301-NLP/tree/main/FarishahNahrin_ChatBot">View Code on GitHub</a>
+<br><br>
+<img src="https://img.shields.io/badge/Python-white?logo=Python">
 
 ---
 
@@ -85,6 +92,8 @@ Matthias Hagen, Maik Fröbe, Artur Jurk, Martin Potthast' Conference paper and a
 Used the [Email Spam Classification dataset](https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv) to perform Naive Bayes, Logistic Regression, and Neural Networks in order to determine how accurate each Machine Learning algorithm is, in determining whether the email is spam or not spam. 
 <br><br>
 [View Code on Github](https://github.com/farishah/CS6301-NLP/tree/main/Farishah_Text_Classification_1)
+<br><br>
+<img src="https://img.shields.io/badge/Python-white?logo=Python">
 
 ---
 
@@ -93,6 +102,8 @@ Used the [Email Spam Classification dataset](https://www.kaggle.com/datasets/bal
 Used the [Women's E-Commerce Clothing Reviews dataset](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews) to perform LTSM, CNN, and different Embedding approaches to determine which model can predict whether a customer would recommend a product based on the customer's review text.
 <br><br>
 [View Code on Github](https://github.com/farishah/CS6301-NLP/tree/main/Farishah_Text_Classification_2)
+<br><br>
+<img src="https://img.shields.io/badge/Python-white?logo=Python">
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
