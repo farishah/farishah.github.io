@@ -29,6 +29,9 @@ Built a web crawler function that scrapes contents from virtualbangladesh.com, d
 [My Web Crawler Report](https://farishah.github.io/CS6301-NLP/FarishahNahrin_WebCrawler/Report_FarishahNahrin.pdf)
 <br><br>
 <a href="https://github.com/farishah/CS6301-NLP/tree/main/FarishahNahrin_WebCrawler">View Code on GitHub</a>
+<br><br>
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<br><br>
 
 ---
 
