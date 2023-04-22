@@ -30,7 +30,7 @@ Built a web crawler function that scrapes contents from virtualbangladesh.com, d
 <br><br>
 <a href="https://github.com/farishah/CS6301-NLP/tree/main/FarishahNahrin_WebCrawler">View Code on GitHub</a>
 <br><br>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-white?logo=Python">
 <br><br>
 
 ---
