@@ -7,7 +7,7 @@
 <br><br>
 Natural Language Processing interests me because there are many research and career opportunities in the field of Software Engineering, dealing with AI, Machine Learning, and NLP. At my current job, NLP is used in the website search engine and Customer Service chatbot, so I found it extremely helpful to understand the intricacies of NLP to make the internal system more intuitive and intelligent for customers.
 
-NLP is an exciting and growing field that could help solve real-world problems, especially in the finance and customer-service industry, where I specialize.
+NLP is an exciting and growing field that could help solve real-world problems, especially in the finance and customer-service industry, where I specialize. To keep up with this field, this course has inspired me to subscribe to podcasts and newsletters, to help me keep up with all the new versions of technologies and frameworks that are emerging.
 
 Learning about NLP inspires me to venture out and create more NLP-driven personal projects that could potentially help solve real-world problems outside of the professional and corporate bubble. I had experiences in machine learning and big data from the courses I took in my Master's program, thus adding NLP to my belt of knowledge helps me to help others in this rapidly growing field. It was exciting to use NLTK, Scrapy, Python Requests Library, Python sqlite3, SKLearn, Pandas, Numpy, Keras, Tensorflow in almost all of the projects this semester.
 
