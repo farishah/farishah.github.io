@@ -5,6 +5,8 @@
 ### NLP
 [Overview of NLP by Farishah](https://farishah.github.io/CS6301-NLP/Overview%20of%20NLP.pdf)
 
+---
+
 ### Word Guessing Game
 Used Python and NLTK features to explore a text file (one chapter of an anatomy textbook) to create a word guessing game.
 <a href="https://github.com/farishah/CS6301-NLP/tree/main/FarishahNahrin_Chapter5">View Code on GitHub</a>
