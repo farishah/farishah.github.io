@@ -69,7 +69,7 @@ Matthias Hagen, Maik Fröbe, Artur Jurk, Martin Potthast' Conference paper and a
 
 ---
 
-## Text Classification Part 1 
+### Text Classification Part 1 
 
 Used the [Email Spam Classification dataset](https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv) to perform Naive Bayes, Logistic Regression, and Neural Networks in order to determine how accurate each Machine Learning algorithm is, in determining whether the email is spam or not spam. 
 <br><br>
@@ -77,9 +77,10 @@ Used the [Email Spam Classification dataset](https://www.kaggle.com/datasets/bal
 
 ---
 
-## Text Classification Part 2
+### Text Classification Part 2
 
 Used the [Women's E-Commerce Clothing Reviews dataset](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews) to perform LTSM, CNN, and different Embedding approaches to determine which model can predict whether a customer would recommend a product based on the customer's review text.
+<br><br>
 [View Code on Github](https://github.com/farishah/CS6301-NLP/tree/main/Farishah_Text_Classification_2)
 
 
