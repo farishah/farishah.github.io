@@ -1,12 +1,10 @@
 title: Farishah's Portfolio
-logo: "/images/farishah-bitmoji.jpeg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+logo: "/images/farishah-bitmoji.jpeg?raw=true" 
+description: > 
   Software Engineer @ Citi 
   <br><br>
   MS in Software Engineering @ UTD 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+  <br><br>  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
