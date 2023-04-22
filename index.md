@@ -9,7 +9,8 @@ Natural Language Processing interests me because there are many research and car
 
 NLP is an exciting and growing field that could help solve real-world problems, especially in the finance and customer-service industry, where I specialize.
 
-Learning about NLP inspires me to venture out and create more NLP-driven personal projects that could potentially help solve real-world problems outside of the professional and corporate bubble. I had experiences in machine learning and big data from the courses I took in my Master's program, thus adding NLP to my belt of knowledge helps me to help others in this rapidly growing field.
+Learning about NLP inspires me to venture out and create more NLP-driven personal projects that could potentially help solve real-world problems outside of the professional and corporate bubble. I had experiences in machine learning and big data from the courses I took in my Master's program, thus adding NLP to my belt of knowledge helps me to help others in this rapidly growing field. It was exciting to use NLTK, Scrapy, Python Requests Library, Python sqlite3, SKLearn, Pandas, Numpy, Keras, Tensorflow in almost all of the projects this semester.
+
 
 Overall, I have grown great enthusiasm for NLP and plan to keep up with this rapidly changing field by staying updated on the latest research and technologies.
 
