@@ -9,21 +9,26 @@
 
 ### Word Guessing Game
 Used Python and NLTK features to explore a text file (one chapter of an anatomy textbook) to create a word guessing game.
+<br><br>
 <a href="https://github.com/farishah/CS6301-NLP/tree/main/FarishahNahrin_Chapter5">View Code on GitHub</a>
 
 ---
 
 ### Web Crawler
+
+Built a web crawler function that scrapes contents from virtualbangladesh.com, determined the top terms using NLP techniques, and saved contents to a knowledge base. 
+<br><br>
 [My Web Crawler Report](https://farishah.github.io/CS6301-NLP/FarishahNahrin_WebCrawler/Report_FarishahNahrin.pdf)
-
-Built a web crawler function that scrapes contents from virtualbangladesh.com, determnine the top terms using NLP techniques, and saved contents to a knowledge base. 
-
 <a href="https://github.com/farishah/CS6301-NLP/tree/main/FarishahNahrin_WebCrawler">View Code on GitHub</a>
 
-Summary: The entire text data was aggregated from the relevant links. The code uses the requests library to fetch the HTML content of the virtualbangladesh site. Once the HTML content is fetched, it can be passed to the Scrapy library for parsing. The code then iterates through all the URLs on the site, and then it uses Requests and Scrapy again, to extract the relevant information. After aggregating all the scraped data, the code does the tokenization, which involves splitting the text into individual words or tokens. And this helps prepare the data for further processing, like filtering non-alphanumeric characters and removing stop words. Then the entire data is cleaned up and the sentence gets tokenized. The reason why I am using Scrapy instead of BeautifulSoup, is because I have a bit more experience with Scrapy. And the instructions said, "be able to do web  scraping with Beautiful Soup or other APIs" So this is the other API i have chosen to scrape with. It can also handle requests asynchronously. After extracting the text with Scrapy, the code could pass the text to sent_tokenize to split it into individual sentences. This allows for the processing on a sentence-level, which was used for the knowledge base. Then the top five sentences, for each keyword, contained this said keyword, and then it was combined with ‘,’ as a delimiter. To get the top 40 words, I tokenizd each string, found the term frequency of each term, found the inverse document frequency of each term, and then the TF-IDF weight of each term. Then I sorted the terms by their TF-IDF weight in descending order. Then, I selected the top 40 terms with the highest TF-IDF weight. The Top 10 Terms I picked was: ['bangladesh', 'pakistan', 'east', 'awami', 'muslim', 'government', 'india', 'military', 'state', 'political'].
+---
 
-## WordNet
-[Deep Dive into WordNet](https://github.com/farishah/CS6301-NLP/blob/main/Farishah_Wordnet.ipynb)
+### WordNet
+
+WordNet is a "lexical database of nouns, verbs, adjectives and adverbs that provides short definitions called glosses, and use examples." Identified sysnets, hypernyms, hyponyms, etc., from nouns using WordNet and SentiWordNet
+
+<br><br>
+<a href="https://github.com/farishah/CS6301-NLP/blob/main/Farishah_Wordnet.ipynb">View Code on GitHub</a>
 
 Summary: WordNet is a "lexical database of nouns, verbs, adjectives and adverbs that provides short definitions called glosses, and use examples." WordNet started as a project at Princeton University, organized by George Miller. The primary premise of the project was "to support theories of human semantic memory, which suggested that people organize concepts mentally in some kind of hierarchy." In NLTK, WordNet is just another NLTK corpus reader, that is created for natural language processing and can be used for translating language automatically, text similarity, to disambiguate words, as a thesaurus. 
 
