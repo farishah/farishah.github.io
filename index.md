@@ -91,11 +91,6 @@ Used the [Women's E-Commerce Clothing Reviews dataset](https://www.kaggle.com/da
 <br><br>
 [View Code on Github](https://github.com/farishah/CS6301-NLP/tree/main/Farishah_Text_Classification_2)
 
-
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
