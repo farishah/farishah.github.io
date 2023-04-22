@@ -1,10 +1,13 @@
 title: Farishah N.
 logo: "/images/farishah-bitmoji.jpg?raw=true" 
 description: > 
+  <a href="farishah.github.io/aboutme">About Me</a> 
   Software Engineer @ Citi 
   <br><br>
   MS in Software Engineering @ UTD 
   <br><br>  
+ 
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
