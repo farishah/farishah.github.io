@@ -4,7 +4,7 @@
 
 ### NLP 
 [Overview of NLP by Farishah](https://farishah.github.io/CS6301-NLP/Overview%20of%20NLP.pdf)
-<br>
+<br><br>
 Natural Language Processing interests me because there are many research and career opportunities in the field of Software Engineering, dealing with AI, Machine Learning, and NLP. At my current job, NLP is used in the website search engine and Customer Service chatbot, so I found it extremely helpful to understand the intricacies of NLP to make the internal system more intuitive and intelligent for customers.
 
 NLP is an exciting and growing field that could help solve real-world problems, especially in the finance and customer-service industry, where I specialize.
