@@ -19,6 +19,8 @@ Overall, I have grown great enthusiasm for NLP and plan to keep up with this rap
 ### Word Guessing Game
 Used Python and NLTK features to explore a text file (one chapter of an anatomy textbook) to create a word guessing game.
 <br><br>
+![](https://user-images.githubusercontent.com/42190218/233822247-f84de84a-9ae7-42d9-9c96-6036a804f48b.gif)
+<br><br>
 <a href="https://github.com/farishah/CS6301-NLP/tree/main/FarishahNahrin_Chapter5">View Code on GitHub</a>
 <br><br>
 <img src="https://img.shields.io/badge/Python-white?logo=Python">
