@@ -71,6 +71,8 @@ Crafted a sentence and identified the PSG (Parse Structure Grammar) tree, parts-
 
 Created a chatbot from scratch with NLP techniques, using the web scraped virtualbangladesh.com data. Maintained a user model within chatbot system. 
 <br><br>
+![](https://user-images.githubusercontent.com/42190218/233819348-b88a6870-9fdf-48e7-8c4e-20f7c39bea41.gif)
+<br><br>
 [Chatbot Report](https://farishah.github.io/CS6301-NLP/ChatbotReport_FarishahNahrin.pdf)
 <br><br>
 <a href="https://github.com/farishah/CS6301-NLP/tree/main/FarishahNahrin_ChatBot">View Code on GitHub</a>
