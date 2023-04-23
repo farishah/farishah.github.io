@@ -67,6 +67,8 @@ Created bigram and unigram dictionaries for English, French, and Italian, using 
 
 Crafted a sentence and identified the PSG (Parse Structure Grammar) tree, parts-of-speech, depedency parse, depedency relations, SRL (Semantic Role Labeling) parse using CoreNLP and AllenNLP.  
 <br>
+<img src="images/coreNLP_farishah.png?raw=true"/>
+<br>
 [Sentence Parsing Report](https://farishah.github.io/CS6301-NLP/Farishah_Nahrin_Sentence_Parsing.pdf)
 
 ---
