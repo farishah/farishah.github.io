@@ -29,6 +29,8 @@ Used Python and NLTK features to explore a text file (one chapter of an anatomy 
 
 Built a web crawler function that scrapes contents from virtualbangladesh.com, determined the top terms using NLP techniques, and saved contents to a knowledge base. 
 <br><br>
+![](https://user-images.githubusercontent.com/42190218/233821950-89659365-078d-486c-8f1a-a27a5377efd1.gif)
+<br><br>
 [My Web Crawler Report](https://farishah.github.io/CS6301-NLP/FarishahNahrin_WebCrawler/Report_FarishahNahrin.pdf)
 <br><br>
 <a href="https://github.com/farishah/CS6301-NLP/tree/main/FarishahNahrin_WebCrawler">View Code on GitHub</a>
